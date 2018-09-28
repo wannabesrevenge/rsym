@@ -1,0 +1,7 @@
+[package]
+name = "rsym"
+version = "0.1.0"
+authors = ["Bittick, Kennon <kennon.bittick@gtri.gatech.edu>"]
+edition = "2018"
+
+[dependencies]
