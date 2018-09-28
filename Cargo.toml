@@ -5,3 +5,4 @@ authors = ["Bittick, Kennon <kennon.bittick@gtri.gatech.edu>"]
 edition = "2018"
 
 [dependencies]
+z3-sys = "0.3.0"
