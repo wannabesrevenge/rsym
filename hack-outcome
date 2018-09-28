@@ -1,0 +1,6 @@
+Symex types created with traits such that symbolic and concrete operations can be performed on them using standard arithmetic and binary operators
+
+Created a Z3 wrapper in Rust that accepts a filename to an SMTLIBv2 format file and returns SAT, UNSAT, or UNDEF
+
+Increased expertise in the Rust programming language
+
